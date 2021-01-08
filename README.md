@@ -1,7 +1,6 @@
 # PikabuFeed
 
-![Скриншот](/img/screen1.png?raw=true)
-![Скриншот](/img/screen2.png?raw=true)
+![Скриншот](/img/screenshots.png?raw=true)
 
 ТЗ:
 
