@@ -1,7 +1,5 @@
 # PikabuFeed
 
-![Скриншот]()
-
 <p align="center">
   <img width="600" height="400" src="/img/screenshots.png?raw=true">
 </p>
